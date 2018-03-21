@@ -42,6 +42,9 @@ group :development, :test do
 end
 
 gem 'bootstrap-sass'
+gem 'jquery-rails'
+gem 'simple_form'
+gem 'devise'
 
 
 group :development do
