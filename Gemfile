@@ -45,6 +45,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
+gem 'carrierwave'
 
 
 group :development do
